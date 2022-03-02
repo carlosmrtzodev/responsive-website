@@ -1,3 +1,21 @@
+# Hello, my name is Carlos Martínez.
+
+### Freelance Front-end Web Developer.
+
+This is a responsive landing page website with a unique style and made for practice, enjoy it.
+
+## Used technologies:
+
+[![HTML](https://img.shields.io/badge/-HTML-red)]()
+[![CSS](https://img.shields.io/badge/-CSS-9cf)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]()
+[![React](https://img.shields.io/badge/-React.js-blue)]()
+
+## Find me at:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosmrtzo-informational)](https://www.linkedin.com/in/carlosmrtzo/) <br>
+[![Twitter](https://img.shields.io/badge/Twitter-carlosmrtzo8-9cf)](https://twitter.com/carlosmrtzo8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
