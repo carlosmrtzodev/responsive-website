@@ -1,6 +1,6 @@
 # Hello, my name is Carlos Martínez. <br><br> Front-end Developer.
 
-<br><br>
+<br>
 
 ## Description.
 
