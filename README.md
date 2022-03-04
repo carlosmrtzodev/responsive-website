@@ -6,15 +6,15 @@ This is a responsive landing page website with a unique style and made for pract
 
 ## Used technologies:
 
-[![HTML](https://img.shields.io/badge/-HTML-red)]()
-[![CSS](https://img.shields.io/badge/-CSS-9cf)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-red)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-9cf)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]()
-[![React](https://img.shields.io/badge/-React.js-blue)]()
+[![React](https://img.shields.io/badge/-React-blue)]()
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosmrtzo-informational)](https://www.linkedin.com/in/carlosmrtzo/) <br>
-[![Twitter](https://img.shields.io/badge/Twitter-carlosmrtzo8-9cf)](https://twitter.com/carlosmrtzo8)
+[![Linked In](https://img.shields.io/badge/Linked%20In-carlosmrtzodev-informational)](https://www.linkedin.com/in/carlosmrtzodev/)
+[![Twitter](https://img.shields.io/badge/Twitter-carlosmrtzodev-9cf)](https://twitter.com/carlosmrtzodev)
 
 # Getting Started with Create React App
 
