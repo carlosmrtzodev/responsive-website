@@ -1,6 +1,6 @@
-# Hello, my name is Carlos Martínez.
+# Hello, my name is Carlos Martínez. <br><br> Front-end Developer.
 
-### Freelance Front-end Web Developer.
+## Description.
 
 This is a responsive landing page website with a unique style and made for practice, enjoy it.
 
