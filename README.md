@@ -4,7 +4,9 @@
 
 Hello 👋.
 
-Responsive and Modern Website practice from JavaScript Mastery Youtube Channel.
+I'm Carlos, a Front End Developer.
+
+This is my Responsive and Modern Website practice from JavaScript Mastery Youtube Channel.
 
 ## 💼 Used Skills
 
