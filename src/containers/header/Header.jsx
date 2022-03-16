@@ -1,13 +1,12 @@
-import React from "react";
+import "./header.css";
 import people from "../../assets/people.png";
 import ai from "../../assets/ai.png";
-import "./header.css";
 
 const Header = () => {
   return (
     <div className="gpt3__header section__padding" id="home">
-      <div class="gpt3__header-content">
-        <h1 class="gradient__text">
+      <div className="gpt3__header-content">
+        <h1 className="gradient__text">
           Let&apos;s Build Something amazing with GPT-3 OpenAI
         </h1>
 

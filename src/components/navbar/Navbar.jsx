@@ -1,7 +1,7 @@
-import React, { useState } from "react";
-import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
-import Logo from "./../../assets/logo.svg";
 import "./navbar.css";
+import { useState } from "react";
+import Logo from "./../../assets/logo.svg";
+import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
 
 const Menu = () => (
   <>
@@ -58,7 +58,7 @@ const Navbar = () => {
         )}
         {toggleMenu && (
           <div className="gpt3__navbar-menu_container scale-up-center">
-            <div class="gpt3__navbar-menu_container-links">
+            <div className="gpt3__navbar-menu_container-links">
               <Menu />
 
               <div className="gpt3__navbar-menu_container-links-sign">

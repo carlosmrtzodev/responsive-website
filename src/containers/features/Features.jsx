@@ -1,4 +1,3 @@
-import React from "react";
 import "./features.css";
 import Feature from "../../components/feature/Feature";
 
@@ -39,7 +38,7 @@ const Features = () => {
             <Feature
               title={item.title}
               text={item.text}
-              key={item.tile + index}
+              key={item.title + index}
             />
           );
         })}

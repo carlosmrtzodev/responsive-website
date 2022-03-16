@@ -1,6 +1,5 @@
-import React from "react";
-import possibiliyImage from "../../assets/possibility.png";
 import "./possibility.css";
+import possibiliyImage from "../../assets/possibility.png";
 
 const Possibility = () => {
   return (

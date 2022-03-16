@@ -12,3 +12,18 @@
   --color-text: #81afdd;
   --color-subtext: #ff8a71;
 }
+
+.gpt3__404 {
+  gap: 2rem;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  padding: 4rem;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gpt3__404 h1 {
+  text-align: center;
+}

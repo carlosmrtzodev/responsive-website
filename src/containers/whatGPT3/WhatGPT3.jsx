@@ -1,4 +1,3 @@
-import React from "react";
 import "./WhatGPT3.css";
 import Feature from "../../components/feature/Feature";
 

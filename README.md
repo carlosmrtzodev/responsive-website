@@ -5,7 +5,7 @@
 ## 📄 Intro.
 
 <div align="center">
-This is a Responsive Website build with React.js for practice from JavaScript Mastery Youtube Channel. <br><br>
+Fully Responsive Modern UI/UX Website in React.js. <br><br>
 </div>
 
 [![Responsive Website App Banner](./assets/banner.png)](https://responsive-website-seven.vercel.app/)

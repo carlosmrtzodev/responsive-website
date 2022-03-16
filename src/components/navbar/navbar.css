@@ -46,7 +46,8 @@
 }
 
 .gpt3__navbar-sign button,
-.gpt3__navbar-menu_container button {
+.gpt3__navbar-menu_container button,
+.gpt3__404 button {
   padding: 0.5rem 1rem;
   color: #fff;
   background: #ff4820;
