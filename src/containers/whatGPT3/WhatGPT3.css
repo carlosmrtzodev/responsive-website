@@ -5,7 +5,6 @@
   padding: 2rem;
   background: var(--color-footer);
 
-  /* ff 3.6+ */
   background: -moz-radial-gradient(
     circle at 30% -100%,
     #042c54 25%,
@@ -13,7 +12,6 @@
     rgba(27, 120, 222, 1) 100%
   );
 
-  /* safari 5.1+,chrome 10+ */
   background: -webkit-radial-gradient(
     circle at 30% -100%,
     #042c54 25%,
@@ -21,7 +19,6 @@
     rgba(27, 120, 222, 1) 100%
   );
 
-  /* opera 11.10+ */
   background: -o-radial-gradient(
     circle at 30% -100%,
     #042c54 25%,
@@ -29,7 +26,6 @@
     rgba(27, 120, 222, 1) 100%
   );
 
-  /* ie 10+ */
   background: -ms-radial-gradient(
     circle at 30% -100%,
     #042c54 25%,
@@ -37,7 +33,6 @@
     rgba(27, 120, 222, 1) 100%
   );
 
-  /* global 92%+ browsers support */
   background: radial-gradient(
     circle at 30% -100%,
     #042c54 25%,
@@ -52,12 +47,10 @@
   display: flex;
 }
 
-/* Customizing feature component as per needs */
 .gpt3__whatgpt3-feature .gpt3__features-container__feature {
   margin: 0;
 }
 
-/* Customizing feature component as per needs */
 .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
   max-width: 700px;
 }
@@ -96,7 +89,6 @@
   margin-top: 2rem;
 }
 
-/* Customizing feature component as per needs */
 .gpt3__whatgpt3-container .gpt3__features-container__feature {
   flex: 1;
   margin: 1rem;
@@ -105,7 +97,6 @@
   flex-direction: column;
 }
 
-/* Customizing feature component as per needs */
 .gpt3__whatgpt3-container .gpt3__features-container_feature-text {
   margin-top: 0.5rem;
 }
@@ -123,12 +114,10 @@
 }
 
 @media screen and (max-width: 650px) {
-  /* Customizing feature component as per needs */
   .gpt3__whatgpt3-feature .gpt3__features-container__feature {
     flex-direction: column;
   }
 
-  /* Customizing feature component as per needs */
   .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
     margin-top: 0.5rem;
   }
@@ -140,7 +129,6 @@
 }
 
 @media screen and (max-width: 350px) {
-  /* Customizing feature component as per needs */
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
     margin: 1rem 0;
     min-width: 100%;

@@ -1,5 +1,4 @@
 import "./footer.css";
-import gpt3Logo from "../../assets/logo.svg";
 
 const Footer = () => {
   return (
@@ -17,7 +16,8 @@ const Footer = () => {
 
         <div className="gpt3__footer-links">
           <div className="gpt3__footer-links_logo">
-            <img src={gpt3Logo} alt="Logo" />
+            <img src="logo.svg" alt="Logo" />
+
             <p>
               Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved
             </p>
@@ -30,12 +30,14 @@ const Footer = () => {
             <p>Counters</p>
             <p>Contact</p>
           </div>
+
           <div className="gpt3__footer-links_div">
             <h4>Company</h4>
             <p>Terms & Conditions </p>
             <p>Privacy Policy</p>
             <p>Contact</p>
           </div>
+
           <div className="gpt3__footer-links_div">
             <h4>Get in touch</h4>
             <p>Crechterwoord K12 182 DK Alknjkcb</p>

@@ -1,21 +1,17 @@
-[![Carlos's GitHub Banner](https://raw.githubusercontent.com/carlosmrtzodev/carlosmrtzodev/master/assets/BannerWork.png)](https://github.com/carlosmrtzodev/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://twitter.com/carlosmrtzodev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
-
 ## 📄 Intro.
 
 <div align="center">
-Fully Responsive Modern UI/UX Website in React.js. <br><br>
+Fully Responsive Modern UI/UX Website in React.js with React Router. <br><br>
 </div>
 
-[![Responsive Website App Banner](./assets/banner.png)](https://responsive-website-seven.vercel.app/)
+[![Responsive Website App Banner](./public/banner.png)](https://responsive-website-seven.vercel.app/)
 
 ## 💼 Used technologies
 
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=042c54&color=042c54&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=042c54&color=042c54&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=042c54&color=042c54&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=042c54&color=042c54&labelColor=2b2d42)
 
 ## 🚨 Forking this repo
 

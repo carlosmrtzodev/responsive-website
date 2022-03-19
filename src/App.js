@@ -1,22 +1,23 @@
-import "./App.css";
 import {
-  Footer,
   Blog,
-  Possibility,
+  Header,
+  Footer,
   Features,
   WhatGPT3,
-  Header,
+  Container,
+  Possibility,
+  ContainerHeader,
 } from "./containers";
 import { CTA, Brand, Navbar } from "./components";
 
 const App = () => {
   return (
     <>
-      <div className="App">
-        <div className="gradient__bg">
+      <Container>
+        <ContainerHeader>
           <Navbar />
           <Header />
-        </div>
+        </ContainerHeader>
 
         <Brand />
         <WhatGPT3 />
@@ -25,7 +26,7 @@ const App = () => {
         <CTA />
         <Blog />
         <Footer />
-      </div>
+      </Container>
     </>
   );
 };

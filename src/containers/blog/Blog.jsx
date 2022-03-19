@@ -1,6 +1,5 @@
 import "./blog.css";
 import Article from "../../components/article/Article";
-import { blog01, blog02, blog03, blog04, blog05 } from "./imports";
 
 const Blog = () => {
   return (
@@ -14,7 +13,7 @@ const Blog = () => {
           <div className="gpt3__blog-container">
             <div className="gpt3__blog-container_groupA">
               <Article
-                imgUrl={blog01}
+                imgUrl="/blog01.png"
                 date="Sep 26, 2021"
                 text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
@@ -22,22 +21,25 @@ const Blog = () => {
 
             <div className="gpt3__blog-container_groupB">
               <Article
-                imgUrl={blog02}
+                imgUrl="blog02.png"
                 date="Sep 26, 2021"
                 text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
+
               <Article
-                imgUrl={blog03}
+                imgUrl="/blog03.png"
                 date="Sep 26, 2021"
                 text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
+
               <Article
-                imgUrl={blog04}
+                imgUrl="blog04.png"
                 date="Sep 26, 2021"
                 text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
+
               <Article
-                imgUrl={blog05}
+                imgUrl="/blog05.png"
                 date="Sep 26, 2021"
                 text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
