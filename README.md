@@ -8,10 +8,10 @@ Fully Responsive Modern UI/UX Website in React.js with React Router. <br><br>
 
 ## 💼 Used technologies
 
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=042c54&color=042c54&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=042c54&color=042c54&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=042c54&color=042c54&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=042c54&color=042c54&labelColor=2b2d42)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=81afdd&color=81afdd&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=81afdd&color=81afdd&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=81afdd&color=81afdd&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=81afdd&color=81afdd&labelColor=2b2d42)
 
 ## 🚨 Forking this repo
 
