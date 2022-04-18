@@ -1,7 +1,7 @@
 ## 📄 Intro.
 
 <div align="center">
-Fully Responsive Modern UI/UX Website in React.js with React Router. <br><br>
+Fully Responsive Modern UI/UX Website in React.js and CSS. <br><br>
 </div>
 
 [![Responsive Website App Banner](./public/banner.png)](https://responsive-website-seven.vercel.app/)
